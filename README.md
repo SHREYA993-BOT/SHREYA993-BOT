@@ -16,8 +16,7 @@
 - 👨‍💻 Full Stack Developer  
 - 🌱 Currently learning Spring Security & Node-js.
 - 🥅 2025 Goal: Contribute to open-source & crack top tech interviews  
-- 🎮 Fun Fact: I  
-
+- 🎮 Fun Fact:  MISS ITER  2025
 ---
 
 ### 📊 GitHub Stats
