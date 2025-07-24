@@ -47,7 +47,7 @@
 
 ### 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BARUN-22&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHREYA993-BOT&theme=react-dark)
 
 ---
 
